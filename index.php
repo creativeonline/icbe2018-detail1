@@ -12,6 +12,6 @@
         </style>
     </head>
     <body>
-      <a href="http://www.isuzucreativebrainschallenge.com/site/detail"><img src="detail1.jpg" style="width:100%;"></a>
+      <a href="http://www.isuzucreativebrainschallenge.com/site/detail"><img src="detail11.png" style="width:100%;"></a>
     </body>
 </html>
